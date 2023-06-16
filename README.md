@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Hakkology.
+Hi 👋 My name is Hakan.
+===========================
+
 - 👀 I’m interested in Software/Game Development with C#/C++...
 - 🌱 The tools im using are Unity, .NET Core and OpenGL...
 - 💞️ I’m looking to collaborate on .NET/Game development projects...
@@ -16,6 +18,7 @@
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px">
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt=".NET" height="40" style="vertical-align:top; margin:4px">
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
