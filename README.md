@@ -27,6 +27,7 @@ I have been effectively learning software development/engineering, utilizing .NE
   <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.iconscout.com/icon/free/png-256/unity-5-555544.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
+  <img src="Images/opengl.png" alt="OpenGL" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## <b>My GitHub Stats</b>
