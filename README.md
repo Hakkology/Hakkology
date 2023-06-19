@@ -1,7 +1,10 @@
 Hi 👋 My name is Hakan.
 ===========================
 
-I have been effectively learning software development/engineering, utilizing .NET Core, Unity and Solidity languages/frameworks. Currently trying to specialize on graphics programming and working with C++ and OpenGL to make my own graphics library and working on fundamental SDKs for my future projects with Unity.
+I have been effectively learning software development/engineering, utilizing .NET Core, Unity and Solidity languages/frameworks. Currently working on 
+- Graphics programming and working with C++ and OpenGL to make my own graphics library,
+- Working on fundamental SDKs for my future projects with Unity,
+- Finalizing previous applications through the use of .NET Core ASP.NET, webapi and WPF.
 
 - 👀 I’m interested in Software/Game Development with C#/C++...
 - 🌱 The tools im using are Unity, .NET Core, ASP.NET, Solidity and OpenGL...
