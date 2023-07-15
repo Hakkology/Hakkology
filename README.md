@@ -11,8 +11,20 @@ Effectively learning software development/engineering, utilizing .NET Core, Unit
 - Working on fundamental SDKs for my future projects with Unity,
 - Finalizing previous applications through the use of .NET with ASP.NET, Webapi and WPF.
 
+## Projects:
+### .NET Projects
+- https://github.com/Hakkology/WebbySoftware
+- https://github.com/Hakkology/E-Commerce-Website
 
+### Game Projects (Unity - C#)
+- https://github.com/Hakkology/Under-the-Rift-s-Shadow
+- https://github.com/Hakkology/Stack-the-Cubes
+- https://github.com/Hakkology/Gun-World
+- https://github.com/Hakkology/Tetris-Game
 
+### Game Projects (C++)
+- https://github.com/Hakkology/OpenGL-Framework
+- https://github.com/Hakkology/SDL-Framework-Implementation
 
 ## Socials:
 <p align="left">
