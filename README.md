@@ -11,23 +11,23 @@ Effectively learning software development/engineering, utilizing .NET Core, Unit
 - Working on fundamental SDKs for my future projects with Unity,
 - Finalizing previous applications through the use of .NET with ASP.NET, Webapi and WPF.
 
-Feel free to refer to our portfolio from the link below. Website is merely launched with free tier and might have abnormalities due to quota failures.
-- https://webbysoftinit.azurewebsites.net/
+Feel free to refer to our portfolio from the link below. Website is recently launched with free tier and might have abnormalities due to quota failures.
+<li><a href="https://webbysoftinit.azurewebsites.net/">Portfolio website</a></li>
 
 ## Projects:
 ### .NET Projects
-- https://github.com/Hakkology/WebbySoftware
-- https://github.com/Hakkology/E-Commerce-Website
+<li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website</a></li>
+<li><a href="https://github.com/Hakkology/E-Commerce-Website">Sample E-Commerce website</a></li>
 
 ### Game Projects (Unity - C#)
-- https://github.com/Hakkology/Under-the-Rift-s-Shadow
-- https://github.com/Hakkology/Stack-the-Cubes
-- https://github.com/Hakkology/Gun-World
-- https://github.com/Hakkology/Tetris-Game
+<li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
+<li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes</a></li>
+<li><a href="https://github.com/Hakkology/Gun-World">Unity Mobile Game Gunworld (Unfinished work)</a></li>
+<li><a href="https://github.com/Hakkology/Tetris-Game">C# WPF Tetris Game</a></li>
 
 ### Game Projects (C++)
-- https://github.com/Hakkology/OpenGL-Framework
-- https://github.com/Hakkology/SDL-Framework-Implementation
+<li><a href="https://github.com/Hakkology/OpenGL-Framework">C++ OpenGL Framework</a></li>
+<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">C++ SDL-Framework with basic Games</a></li>
 
 ## Socials:
 <p align="left">
