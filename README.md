@@ -6,26 +6,26 @@ Hi 👋 My name is Hakan.
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
 
 ## Objectives:
-Effectively learning software development/engineering, utilizing .NET Core, Unity and Solidity languages/frameworks. Currently working on the following: 
-- Graphics programming and working with C++ and OpenGL to make my own graphics library,
-- Working on fundamental SDKs for my future projects with Unity,
-- Finalizing previous applications through the use of .NET with ASP.NET, Webapi and WPF.
+Effectively learning software development/engineering, utilizing .NET Core, Unity and Solidity frameworks with C# and C++ languages. Currently focused on the following: 
+- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals,
+- Making SDKs and plugins for my future projects using Unity with C#,
+- Making applications with C# through the use of .NET with ASP.NET, Webapi, WPF and React,
 
-Feel free to refer to our portfolio from the link below. Website is recently launched with free tier and might have abnormalities due to quota failures.
+Feel free to refer to our portfolio from the link below.
 <li><a href="https://webbysoftinit.azurewebsites.net/">Portfolio website</a></li>
 
 ## Projects:
-### .NET Projects
+### Sample .NET Projects
 <li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website</a></li>
 <li><a href="https://github.com/Hakkology/E-Commerce-Website">Sample E-Commerce website</a></li>
 
-### Game Projects (Unity - C#)
+### Sample Game Projects (Unity - C#)
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
 <li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes</a></li>
 <li><a href="https://github.com/Hakkology/Gun-World">Unity Mobile Game Gunworld (Unfinished work)</a></li>
 <li><a href="https://github.com/Hakkology/Tetris-Game">C# WPF Tetris Game</a></li>
 
-### Game Projects (C++)
+### Sample Game Projects (C++)
 <li><a href="https://github.com/Hakkology/OpenGL-Framework">C++ OpenGL Framework</a></li>
 <li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">C++ SDL-Framework with basic Games</a></li>
 
