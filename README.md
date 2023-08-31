@@ -6,10 +6,9 @@ Hi 👋 My name is Hakan.
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
 
 ## Objectives:
-Effectively learning software development/engineering, utilizing .NET Core, Unity and Godot engines with C# and C++ languages. Also interested in smart contracts with Solidity. Currently focused on the following: 
-- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals,
-- Making SDKs and plugins for my future projects using Unity with C#,
-- Making applications with C# through the use of .NET with ASP.NET, Webapi, WPF and React,
+Effectively learning software dev, using .NET Core, Unity and Godot engines with C# and C++ languages. Also interested in smart contracts with Solidity. Currently focused on:
+- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making SDKs and plugins using Unity with C#, compute shaders, procedurally generated content.
+- Applications with .NET and ASP.NET as Webapi, Web Projects and Smart Contract integration to projects through C#.
 
 Feel free to refer to our portfolio from the link below.
 <li><a href="https://webbysoftinit.azurewebsites.net/">Portfolio website</a></li>
