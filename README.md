@@ -17,7 +17,7 @@ Feel free to refer to our portfolio from the link below.
 ## Projects:
 ### Sample .NET Projects
 <li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website</a></li>
-<li><a href="https://github.com/Hakkology/E-Commerce-Website">Sample E-Commerce website</a></li>
+<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website</a></li>
 
 ### Sample Game Projects (Unity - C#)
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
