@@ -11,7 +11,7 @@ Effectively learning software dev, using .NET Core, Unity and Godot engines with
 - Applications with .NET and ASP.NET as Webapi, Web Projects and Smart Contract integration to projects through C#.
 
 Feel free to refer to our portfolio from the link below.
-<li><a href="https://webbysoftinit.azurewebsites.net/">Portfolio website</a></li>
+<li><a href="https://webbysoftinit.com/">Portfolio website</a></li>
 
 ## Projects:
 ### Sample .NET Projects
