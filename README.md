@@ -18,6 +18,9 @@ Feel free to refer to our portfolio from the link below.
 ### Sample .NET Projects
 <li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website</a></li>
 <li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website</a></li>
+<li><a href="https://github.com/Hakkology/MapLogger">Map Logger on ASP.NET</li>
+<li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Very basic OOP software for Electronic Toll Collection</li>
+<li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Console application for a real estate website contents</li>
 
 ### Sample Game Projects (Unity - C#)
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
