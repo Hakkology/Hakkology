@@ -6,9 +6,10 @@ Hi 👋 My name is Hakan.
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
 
 ## Objectives:
-Effectively learning software/game dev, using .NET Core and Unity engine with C# and C++ languages. Deeply interested in game engines. Currently focused on:
+Effectively learning software/game dev, using .NET Core and Unity engine with C# and C++ languages. Focused on learning and improving game engines. Currently focused on:
 - Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making games on Unity with C#, compute shaders, procedurally generated content.
 - Applications with .NET and ASP.NET as Webapi, Web Projects and Smart Contract integration to projects through C#.
+- Specific uses with Rust, learning Rust fundamentals.
 
 Feel free to refer to our portfolio from the link below.
 <li><a href="https://webbysoftinit.com/">Portfolio website</a></li>
