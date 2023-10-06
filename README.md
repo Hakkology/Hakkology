@@ -2,12 +2,12 @@ Hi 👋 My name is Hakan.
 ------------------------------
 - 👀 I’m interested in Software/Game Development with C#/C++...
 - 🌱 The tools im using are Unity, .NET Core, ASP.NET, Solidity and OpenGL...
-- 💞️ I’m looking to collaborate on .NET/Game development projects...
+- 💞️ I’m looking to collaborate on development of above-mentioned projects...
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
 
 ## Objectives:
-Effectively learning software dev, using .NET Core, Unity and Godot engines with C# and C++ languages. Also interested in smart contracts with Solidity. Currently focused on:
-- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making SDKs and plugins using Unity with C#, compute shaders, procedurally generated content.
+Effectively learning software/game dev, using .NET Core and Unity engine with C# and C++ languages. Deeply interested in game engines. Currently focused on:
+- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making games on Unity with C#, compute shaders, procedurally generated content.
 - Applications with .NET and ASP.NET as Webapi, Web Projects and Smart Contract integration to projects through C#.
 
 Feel free to refer to our portfolio from the link below.
@@ -51,8 +51,12 @@ Feel free to refer to our portfolio from the link below.
 </p>
 
 ## <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Hakkology"><img src="https://github-readme-stats.vercel.app/api?username=Hakkology&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Hakkology's GitHub stats" /></a>
+<a href="https://github.com/Hakkology/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hakkology&theme=solarized-dark" />
+</a>
+<a href="https://github.com/Hakkology/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hakkology&layout=compact&langs_count=8&card_width=320&hide_progress=true&theme=solarized-dark" />
+</a>
 
 <br />
 
