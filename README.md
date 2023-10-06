@@ -15,20 +15,20 @@ Feel free to refer to our portfolio from the link below.
 <li><a href="https://webbysoftinit.com/">Portfolio website</a></li>
 
 ## Projects:
-### Sample .NET Projects
+### .NET Projects
 <li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, webapi, Production)</a></li>
 <li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered)</a></li>
 <li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesium)</a></li>
 <li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Electronic Toll Collection (Windows Forms)</a></li>
 <li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (Console App)</a></li>
 
-### Sample Game Projects (Unity - C#)
+### Game Projects (Unity - C#)
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
 <li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes</a></li>
 <li><a href="https://github.com/Hakkology/Gun-World">Unity Mobile Game Gunworld (Unfinished work)</a></li>
 <li><a href="https://github.com/Hakkology/Tetris-Game">C# WPF Tetris Game</a></li>
 
-### Sample Game Projects (C++)
+### Game Projects (C++)
 <li><a href="https://github.com/Hakkology/OpenGL-Framework">C++ OpenGL Framework</a></li>
 <li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">C++ SDL-Framework with basic Games</a></li>
 
