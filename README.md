@@ -21,6 +21,7 @@ Feel free to refer to our portfolio from the link below.
 <li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesium)</a></li>
 <li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Electronic Toll Collection (Windows Forms)</a></li>
 <li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (Console App)</a></li>
+<li><a href="https://github.com/Hakkology/MessagingApp">Chat App (C#, Flutter, ongoing work)</li>
 
 ### Game Projects (Unity - C#)
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
