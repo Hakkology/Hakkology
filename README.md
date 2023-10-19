@@ -7,7 +7,7 @@ Hi 👋 My name is Hakan.
 
 ## Objectives:
 Effectively learning software/game dev, using .NET Core and Unity engine with C# and C++ languages. Focused on learning and improving game engines. Currently focused on:
-- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making games on Unity with C#, compute shaders, procedurally generated content.
+- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making games on Unity with C#, compute shaders.
 - Applications with .NET and ASP.NET as Webapi, Web Projects and Smart Contract integration to projects through C#.
 - Specific uses with Rust, learning Rust fundamentals.
 
