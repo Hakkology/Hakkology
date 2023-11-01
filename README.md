@@ -1,6 +1,6 @@
 Hi 👋 My name is Hakan.
 ------------------------------
-- 👀 I’m interested in Software/Game Development with C#/C++...
+- 👀 I’m learning and improving in Software/Game Development with C#/C++...
 - 🌱 The tools im using are Unity, Godot, .NET Core, ASP.NET, Solidity and OpenGL...
 - 💞️ I’m looking to collaborate on game/software development projects...
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
@@ -16,11 +16,11 @@ Feel free to refer to our portfolio from the link below.
 
 ## Projects:
 ### .NET Projects (C#)
-<li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, webapi, Production)</a></li>
-<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered Architecture, E-Commerce)</a></li>
-<li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesiumjs, openLayerMap)</a></li>
-<li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Electronic Toll Collection (OOP Models, Windows Forms UI)</a></li>
-<li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (OOP Models, Console App)</a></li>
+<li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, webapi, Web Application, Production)</a></li>
+<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered Architecture, Web Application, E-Commerce)</a></li>
+<li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesiumjs, openLayerMap, Web Application)</a></li>
+<li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Electronic Toll Collection (OOP Models, Windows Forms Application)</a></li>
+<li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (OOP Models, Console Application)</a></li>
 <li><a href="https://github.com/Hakkology/MessagingApp">Chat App (C#, Flutter UI, TCP Websockets, ongoing work)</li>
 
 ### Game Projects (Unity Game Development - C#)
@@ -35,7 +35,7 @@ Feel free to refer to our portfolio from the link below.
 
 ### Game Projects (Game Development - C++)
 <li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, visual models on C++</a></li>
-<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Gamestation including Breakout, Tetris, Pacman and Asteroids</a></li>
+<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Game Application with Breakout, Tetris, Pacman and Asteroids</a></li>
 
 ## Socials:
 <p align="left">
