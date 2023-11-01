@@ -1,8 +1,8 @@
 Hi 👋 My name is Hakan.
 ------------------------------
 - 👀 I’m interested in Software/Game Development with C#/C++...
-- 🌱 The tools im using are Unity, .NET Core, ASP.NET, Solidity and OpenGL...
-- 💞️ I’m looking to collaborate on development of above-mentioned projects...
+- 🌱 The tools im using are Unity, Godot, .NET Core, ASP.NET, Solidity and OpenGL...
+- 💞️ I’m looking to collaborate on game/software development projects...
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
 
 ## Objectives:
@@ -17,23 +17,25 @@ Feel free to refer to our portfolio from the link below.
 ## Projects:
 ### .NET Projects (C#)
 <li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, webapi, Production)</a></li>
-<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered)</a></li>
-<li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesium)</a></li>
-<li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Electronic Toll Collection (Windows Forms)</a></li>
-<li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (Console App)</a></li>
-<li><a href="https://github.com/Hakkology/MessagingApp">Chat App (C#, Flutter, ongoing work)</li>
+<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered Architecture, E-Commerce)</a></li>
+<li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesiumjs, openLayerMap)</a></li>
+<li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Electronic Toll Collection (OOP Models, Windows Forms UI)</a></li>
+<li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (OOP Models, Console App)</a></li>
+<li><a href="https://github.com/Hakkology/MessagingApp">Chat App (C#, Flutter UI, TCP Websockets, ongoing work)</li>
 
-### Game Projects (Unity - C#)
+### Game Projects (Unity Game Development - C#)
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
 <li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes</a></li>
 <li><a href="https://github.com/Hakkology/Gun-World">Unity Mobile Game Gunworld (Unfinished work)</a></li>
 <li><a href="https://github.com/Hakkology/Paperboy">Unity Game Paperboy (Ongoing work)</a></li>
 <li><a href="https://github.com/Hakkology/Tetris-Game">WPF Tetris Game</a></li>
+
+### Major Projects (Game Development)
 <li><a href="https://store.steampowered.com/app/2455460/Milord/">Game Development on Milord</a></li>
 
-### Game Projects (C++)
-<li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework</a></li>
-<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Gamestation with basic Games</a></li>
+### Game Projects (Game Development - C++)
+<li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, visual models on C++</a></li>
+<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Gamestation including Breakout, Tetris, Pacman and Asteroids</a></li>
 
 ## Socials:
 <p align="left">
