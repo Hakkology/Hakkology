@@ -27,7 +27,9 @@ Feel free to refer to our portfolio from the link below.
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
 <li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes</a></li>
 <li><a href="https://github.com/Hakkology/Gun-World">Unity Mobile Game Gunworld (Unfinished work)</a></li>
+<li><a href="https://github.com/Hakkology/Paperboy">Unity Game Paperboy (Ongoing work)</a></li>
 <li><a href="https://github.com/Hakkology/Tetris-Game">WPF Tetris Game</a></li>
+<li><a href="https://store.steampowered.com/app/2455460/Milord/">Game Development on Milord</a></li>
 
 ### Game Projects (C++)
 <li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework</a></li>
