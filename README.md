@@ -1,14 +1,14 @@
 Hi 👋 My name is Hakan.
 ------------------------------
-- 👀 I’m interested in Software/Game Development with C#/C++ and learning Rust...
+- 👀 I’m interested in Software/Game Development with C#/C++...
 - 🌱 The tools im using are Unity, .NET Core, ASP.NET, Solidity and OpenGL...
 - 💞️ I’m looking to collaborate on development of above-mentioned projects...
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
 
 ## Objectives:
-Effectively learning software/game dev, using .NET Core and Unity engine with C# and C++ languages. Focused on learning and improving game engines. Currently focused on:
-- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making games on Unity with C#, compute shaders.
-- Applications with .NET and ASP.NET as Webapi, Web Projects and Smart Contract integration to projects through C#.
+Effectively learning software/game dev, using .NET Core and Unity engine with C# and C++ languages. Currently focused on:
+- Graphics/Games programming with C++ using OpenGL and SDL to make games or visuals, making games on Unity with C#.
+- Applications with .NET and ASP.NET as RESTful API's, Web Projects, JS tools and Smart Contract integration to projects through C#.
 - Specific uses with Rust, learning Rust fundamentals.
 
 Feel free to refer to our portfolio from the link below.
