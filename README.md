@@ -16,12 +16,12 @@ Feel free to refer to our portfolio from the link below.
 
 ## Projects:
 ### .NET Projects (C#)
-<li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, webapi, Web Application, Production)</a></li>
-<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered Architecture, Web Application, E-Commerce)</a></li>
+<li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, webapi, Web Application, on Production)</a></li>
+<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered Architecture, E-Commerce, Web Application, )</a></li>
 <li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesiumjs, openLayerMap, Web Application)</a></li>
 <li><a href="https://github.com/Hakkology/Electronic-Toll-Collection-System">Electronic Toll Collection (OOP Models, Windows Forms Application)</a></li>
 <li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (OOP Models, Console Application)</a></li>
-<li><a href="https://github.com/Hakkology/MessagingApp">Chat App (C#, Flutter UI, TCP Websockets, ongoing work)</li>
+<li><a href="https://github.com/Hakkology/MessagingApp">Messaging App (C#, Flutter UI, TCP Websockets, Mobile Application, ongoing work)</li>
 
 ### Game Projects (Unity Game Development - C#)
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project</a></li>
