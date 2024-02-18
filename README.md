@@ -12,7 +12,7 @@ Effectively learning software/game dev, using .NET Core and Unity engine with C#
 - Applications with .NET and ASP.NET as RESTful API's, Web Projects, JS tools and Smart Contract integration to projects through C#.
 - Specific uses with Rust, learning Rust fundamentals.
 
-Feel free to refer to our portfolio from the link below.
+Feel free to refer to our portfolio from the link below, which we made from scratch.
 <li><a href="https://webbysoftinit.com/">Portfolio website</a></li>
 
 ## Projects:
