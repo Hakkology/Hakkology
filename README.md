@@ -17,7 +17,6 @@ Effectively learning software/game dev. Currently focused on:
 Feel free to refer to our portfolio from the link below, which was made from scratch.
 <li><a href="https://webbysoftinit.com/">Portfolio website</a></li>
 
-https://github.com/Hakkology/Procedural-Cave-Generation
 ## Projects:
 ### .NET Projects (C#)
 <li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, Web Application, on Production)</a></li>
