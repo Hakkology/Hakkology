@@ -42,7 +42,7 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 ### Game Projects (Game Development - C++)
 <li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, C++ graphics programming</a></li>
 <li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Game Application with Breakout, Tetris, Pacman and Asteroids games</a></li>
-<li><a href="[https://github.com/Hakkology/Vulkan-API">Vulkan 3D-Renderer with GLFW</a></li>
+<li><a href="https://github.com/Hakkology/Vulkan-API">Vulkan 3D-Renderer with GLFW</a></li>
 
 ## Socials:
 <p align="left">
