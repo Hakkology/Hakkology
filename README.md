@@ -38,6 +38,8 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 
 ### Major Projects (Game Development)
 <li><a href="https://store.steampowered.com/app/2455460/Milord/">Game Development on Milord</a></li>
+<li><a href="https://www.loremachine.world">Frontend Development on LoreMachine</a></li>
+
 
 ### Game Projects (Game Development - C++)
 <li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, C++ graphics programming</a></li>
