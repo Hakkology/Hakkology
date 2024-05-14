@@ -36,7 +36,7 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project (Early Development)</a></li>
 <li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes (Early Development)</a></li>
 
-### Major Projects (Game Development)
+### Major Projects
 <li><a href="https://store.steampowered.com/app/2455460/Milord/">Game Development on Milord</a></li>
 <li><a href="https://www.loremachine.world">Frontend Development on LoreMachine</a></li>
 
