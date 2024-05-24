@@ -26,16 +26,16 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 <li><a href="https://github.com/Hakkology/MessagingApp">Messaging App (C#, Flutter, Mobile Application, ongoing work)</li>
 
 ### Game Projects (Unity Game Development - C#)
-<li><a href="https://github.com/Hakkology/r9">Unity Mobile Game R9! (to be released soon!)</a></li>
-<li><a href="https://github.com/Hakkology/Paperboy">Unity Game Paperboy (Ongoing work) </a></li>
-<li><a href="https://github.com/Hakkology/Procedural-Cave-Generation">Tests on procedural dungeon generation </a></li>
-<li><a href="https://github.com/Hakkology/Gun-World">Games with guns (failed project, soon to be restarted) </a></li>
-<li><a href="https://github.com/Hakkology/FPSProject">FPS multiple weapons, pickup mechanics, enemy AI (FPS Sample Project) </a></li>
-<li><a href="https://github.com/Hakkology/Tetris-Game">WPF Tetris Game using only C#.</a></li>
+<li><a href="https://github.com/Hakkology/r9">Unity Mobile Game R9! (Complete Development - to be released soon!)</a></li>
+<li><a href="https://github.com/Hakkology/Paperboy">Unity Game Paperboy (Ongoing Development) </a></li>
+<li><a href="https://github.com/Hakkology/FPSProject">FPS multiple weapons, pickup mechanics, enemy AI (Ongoing Development - FPS Sample Project) </a></li>
+<li><a href="https://github.com/Hakkology/Tetris-Game">WPF Tetris Game using only C#, no Unity.</a></li>
 <li><a href="https://github.com/Hakkology/Tetris">Unity Basic Tetris Game (Complete Development) </a></li>
 <li><a href="https://github.com/Hakkology/Marvin">Unity 2D Platformer Game (Ongoing Development) </a></li>
-<li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project (Early Development)</a></li>
-<li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes (Early Development)</a></li>
+<li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project (Early Development - Beginner Project)</a></li>
+<li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes (Early Development  - Beginner Project)</a></li>
+<li><a href="https://github.com/Hakkology/Gun-World">Games with guns (Project On Hold) </a></li>
+<li><a href="https://github.com/Hakkology/Procedural-Cave-Generation">Tests on procedural dungeon generation </a></li>
 
 ### Major Projects
 <li><a href="https://store.steampowered.com/app/2455460/Milord/">Game Development on Milord</a></li>
@@ -43,9 +43,9 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 
 
 ### Game Projects (Game Development - C++)
-<li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, C++ graphics programming</a></li>
-<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Game Application with Breakout, Tetris, Pacman and Asteroids games</a></li>
-<li><a href="https://github.com/Hakkology/Vulkan-API">Vulkan 3D-Renderer with GLFW</a></li>
+<li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, C++ graphics programming (Complete Development)</a></li>
+<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Game Application with Breakout, Tetris, Pacman and Asteroids games (Complete Development)</a></li>
+<li><a href="https://github.com/Hakkology/Vulkan-API">Vulkan 3D-Renderer with GLFW (Ongoing Development)</a></li>
 
 ## Socials:
 <p align="left">
