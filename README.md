@@ -17,35 +17,44 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 
 ## Projects:
 ### .NET Projects (C#)
-<li><a href="https://github.com/Hakkology/WebbySoftware">Webby Software Portfolio website (ASP.NET, Web Application, on Production)</a></li>
-<li><a href="https://github.com/Hakkology/E-Commerce-Website">E-Commerce website (ASP.NET, Multilayered, E-Commerce, Web Application)</a></li>
-<li><a href="https://github.com/Hakkology/MapLogger">Map Logger (ASP.NET, cesiumjs, openLayerMap, Web Application)</a></li>
-<li><a href="https://github.com/Hakkology/Real-Estate-Site-Concept">Real Estate Website (Console Application, Early Development)</a></li>
-<li><a href="https://github.com/Hakkology/MessagingApp">Messaging App (C#, Flutter, Mobile Application, ongoing work)</li>
+| Project | Link | Development Status |
+|---------|------|--------------------|
+| Webby Software Portfolio website | [Webby Software](https://github.com/Hakkology/WebbySoftware) | Complete |
+| E-Commerce website | [E-Commerce website](https://github.com/Hakkology/E-Commerce-Website) | Complete |
+| Map Logger | [Map Logger](https://github.com/Hakkology/MapLogger) | Complete |
+| Real Estate Website | [Real Estate Website](https://github.com/Hakkology/Real-Estate-Site-Concept) | Early Development |
+| Messaging App | [Messaging App](https://github.com/Hakkology/MessagingApp) | Ongoing |
+| WPF Tetris Game | [WPF Tetris](https://github.com/Hakkology/Tetris-Game) | Complete |
 
 ### Game Projects (Unity Game Development - C#)
-<li><a href="https://github.com/Hakkology/r9">Unity Mobile Game R9! (Complete Development - to be released soon!)</a></li>
-<li><a href="https://github.com/Hakkology/Paperboy">Unity Game Paperboy (Ongoing Development) </a></li>
-<li><a href="https://github.com/Hakkology/FPSProject">FPS multiple weapons, pickup mechanics, enemy AI (Ongoing Development - FPS Sample Project) </a></li>
-<li><a href="https://github.com/Hakkology/Tetris-Game">WPF Tetris Game using only C#, no game engine (Complete Development)</a></li>
-<li><a href="https://github.com/Hakkology/Tetris">Unity Tetris Game (Complete Development) </a></li>
-<li><a href="https://github.com/Hakkology/Asteroid">Unity Asteroids Game (Complete Development) </a></li>
-<li><a href="https://github.com/Hakkology/Marvin">Unity 2D RPG Game (Ongoing Development) </a></li>
-<li><a href="https://github.com/Hakkology/Frogger">Unity Frog Puzzle Game (Ongoing Development) </a></li>
-<li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project (Early Development - Beginner Project)</a></li>
-<li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes (Early Development  - Beginner Project)</a></li>
-<li><a href="https://github.com/Hakkology/Gun-World">Games with guns (Project On Hold - to be continued later) </a></li>
-<li><a href="https://github.com/Hakkology/Procedural-Cave-Generation">Tests on procedural dungeon generation </a></li>
-
-### Major Projects
-<li><a href="https://store.steampowered.com/app/2455460/Milord/">Game Development on Milord</a></li>
-<li><a href="https://www.loremachine.world">Frontend Development on LoreMachine</a></li>
-<li><a href="https://nopcommerce.com">Web Development for NopCommerce through plugins</a></li>
+| Project | Link | Development Status |
+|---------|------|--------------------|
+| Unity Game R9! | [R9!](https://github.com/Hakkology/r9) | To be released |
+| Unity Game Paperboy | [Paperboy](https://github.com/Hakkology/Paperboy) | Ongoing |
+| FPS game Template | [FPS Project](https://github.com/Hakkology/FPSProject) | Ongoing |
+| Unity Tetris Game | [Unity Tetris](https://github.com/Hakkology/Tetris) | Complete |
+| Unity Asteroids Game | [Asteroids](https://github.com/Hakkology/Asteroid) | Complete |
+| Unity 2D RPG Game Marvin | [Marvin](https://github.com/Hakkology/Marvin) | Ongoing |
+| Unity Frog Puzzle Game | [Frogger](https://github.com/Hakkology/Frogger) | Ongoing |
+| Unity RPG Test Project | [Under the Rift's Shadow](https://github.com/Hakkology/Under-the-Rift-s-Shadow) | Early Development |
+| Unity Game Stack-the-Cubes | [Stack-the-Cubes](https://github.com/Hakkology/Stack-the-Cubes) | Early Development |
+| Procedural Dungeon Generate | [Procedural Generation](https://github.com/Hakkology/Procedural-Cave-Generation) | Ongoing |
 
 ### Game Projects (Game Development - C++)
-<li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, C++ graphics programming (Complete Development)</a></li>
-<li><a href="https://github.com/Hakkology/SDL-Framework-Implementation">SDL-Game Application with Breakout, Tetris, Pacman and Asteroids games (Complete Development)</a></li>
-<li><a href="https://github.com/Hakkology/Vulkan-API">Vulkan 3D-Renderer with GLFW (Ongoing Development)</a></li>
+| Project | Link | Development Status |
+|---------|------|--------------------|
+| OpenGL Framework | [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) | Complete |
+| SDL-Game App | [SDL-Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) | Complete |
+| Vulkan Renderer | [Vulkan API](https://github.com/Hakkology/Vulkan-API) | Ongoing |
+
+### Major Projects
+| Project | Link | Development Status |
+|---------|------|--------------------|
+| Milord Unity Game | [Milord on Steam](https://store.steampowered.com/app/2455460/Milord/) | Ongoing |
+| LoreMachine Video Exporter | [LoreMachine](https://www.loremachine.world) | Ongoing |
+| NopCommerce Plugin Dev | [NopCommerce](https://nopcommerce.com) | Ongoing |
+
+
 
 ## Socials:
 <p align="left">
