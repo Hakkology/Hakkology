@@ -2,7 +2,6 @@ Hi 👋 My name is Hakan.
 ------------------------------
 - 👀 I’m learning and improving in Software/Game Development with C#/C++/Rust...
 - 💞️ I’m looking to collaborate on game/software development projects...
-- 💫 Currently invoived with the game development team for <a href = "https://www.ibrightgames.com/">IBrightGames</a> , contributing as a game developer.
 - 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
 - 📄 Check out my CV for more details about my skills and experiences. <a href="https://flowcv.com/resume/9lsewnarv5"><i class="fa fa-file-text-o" aria-hidden="true"></i> Download My CV</a>
 
@@ -28,18 +27,20 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 <li><a href="https://github.com/Hakkology/r9">Unity Mobile Game R9! (Complete Development - to be released soon!)</a></li>
 <li><a href="https://github.com/Hakkology/Paperboy">Unity Game Paperboy (Ongoing Development) </a></li>
 <li><a href="https://github.com/Hakkology/FPSProject">FPS multiple weapons, pickup mechanics, enemy AI (Ongoing Development - FPS Sample Project) </a></li>
-<li><a href="https://github.com/Hakkology/Tetris-Game">WPF Tetris Game using only C#, no Unity.</a></li>
+<li><a href="https://github.com/Hakkology/Tetris-Game">WPF Tetris Game using only C#, no Unity (Complete Development)</a></li>
 <li><a href="https://github.com/Hakkology/Tetris">Unity Basic Tetris Game (Complete Development) </a></li>
-<li><a href="https://github.com/Hakkology/Marvin">Unity 2D Platformer Game (Ongoing Development) </a></li>
+<li><a href="https://github.com/Hakkology/Asteroid">Unity Basic Asteroids Game (Complete Development) </a></li>
+<li><a href="https://github.com/Hakkology/Marvin">Unity 2D RPG Game (Ongoing Development) </a></li>
+<li><a href="https://github.com/Hakkology/Frogger">Unity Frog Puzzle Game (Ongoing Development) </a></li>
 <li><a href="https://github.com/Hakkology/Under-the-Rift-s-Shadow">Unity RPG Sample Project (Early Development - Beginner Project)</a></li>
 <li><a href="https://github.com/Hakkology/Stack-the-Cubes">Unity Runner Game Stack-the-Cubes (Early Development  - Beginner Project)</a></li>
-<li><a href="https://github.com/Hakkology/Gun-World">Games with guns (Project On Hold) </a></li>
+<li><a href="https://github.com/Hakkology/Gun-World">Games with guns (Project On Hold - to be continued later) </a></li>
 <li><a href="https://github.com/Hakkology/Procedural-Cave-Generation">Tests on procedural dungeon generation </a></li>
 
 ### Major Projects
 <li><a href="https://store.steampowered.com/app/2455460/Milord/">Game Development on Milord</a></li>
 <li><a href="https://www.loremachine.world">Frontend Development on LoreMachine</a></li>
-
+<li><a href="https://nopcommerce.com">Web Development for NopCommerce through plugins</a></li>
 
 ### Game Projects (Game Development - C++)
 <li><a href="https://github.com/Hakkology/OpenGL-Framework">OpenGL Framework, C++ graphics programming (Complete Development)</a></li>
