@@ -33,7 +33,7 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 | Unity Game Paperboy | [Paperboy](https://github.com/Hakkology/Paperboy) | Ongoing |
 | FPS game Template | [FPS Project](https://github.com/Hakkology/FPSProject) | Ongoing |
 | Unity Tetris Game | [Unity Tetris](https://github.com/Hakkology/Tetris) | Complete |
-| Unity Asteroids Game | [Asteroids](https://github.com/Hakkology/Asteroid) | Complete |
+| Unity Asteroids Game | [Asteroids](https://github.com/Hakkology/Asteroids) | Complete |
 | Unity 2D RPG Game Marvin | [Marvin](https://github.com/Hakkology/Marvin) | Ongoing |
 | Unity Frog Puzzle Game | [Frogger](https://github.com/Hakkology/Frogger) | Ongoing |
 | Unity RPG Test Project | [Under the Rift's Shadow](https://github.com/Hakkology/Under-the-Rift-s-Shadow) | Early Development |
