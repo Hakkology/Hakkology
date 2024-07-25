@@ -29,7 +29,7 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 ### Game Projects (Unity Game Development - C#)
 | Project | Link | Development Status |
 |---------|------|--------------------|
-| Unity Game R9! | [R9!](https://github.com/Hakkology/r9) | To be released |
+| Unity Game R9! | [R9!](https://hakkology.itch.io/r9) | To be released |
 | Unity Game Paperboy | [Paperboy](https://github.com/Hakkology/Paperboy) | Ongoing |
 | FPS game Template | [FPS Project](https://github.com/Hakkology/FPSProject) | Ongoing |
 | Unity Tetris Game | [Unity Tetris](https://github.com/Hakkology/Tetris) | Complete |
