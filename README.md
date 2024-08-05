@@ -25,6 +25,7 @@ Feel free to refer to our portfolio from the link below, which was made from scr
 | Real Estate Website | [Real Estate Website](https://github.com/Hakkology/Real-Estate-Site-Concept) | Early Development |
 | Messaging App | [Messaging App](https://github.com/Hakkology/MessagingApp) | Ongoing |
 | WPF Tetris Game | [WPF Tetris](https://github.com/Hakkology/Tetris-Game) | Complete |
+| Blazor Connect4 Game | [Blazor Connect4](https://github.com/Hakkology/ConnectFour) | Complete |
 
 ### Game Projects (Unity Game Development - C#)
 | Project | Link | Development Status |
