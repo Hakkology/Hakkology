@@ -1,19 +1,21 @@
-Hi 👋 My name is Hakan.
+## Hi 👋 My name is Hakan.
 ------------------------------
-- 👀 I’m learning and improving in Software/Game Development with C#/C++/Rust...
-- 💞️ I’m looking to collaborate on game/software development projects...
-- 📫 You may reach me through this mail address: yildizhakan88@gmail.com...
-- 📄 Check out my CV for more details about my skills and experiences. <a href="https://flowcv.com/resume/9lsewnarv5"><i class="fa fa-file-text-o" aria-hidden="true"></i> Download My CV</a>
+- 👨‍💻 I’m a full-stack developer with a passion for creating robust software and immersive games.
+- 🚀 I'm actively working with C#, C++, and Rust to develop innovative solutions in both software and game development.
+- 🎮 I specialize in game development using Unity, and I’m expanding my skills in graphics programming with C++ and Rust.
+- 💡 I’m always open to collaboration on game/software development projects, particularly those involving cutting-edge technologies.
+- 📧 You can reach me at: yildizhakan88@gmail.com
+- 📄 Check out my CV for a detailed overview of my skills and experience. [Download My CV](https://flowcv.com/resume/b96nb87j5g)
 
 ## Objectives:
-Effectively learning software/game dev. Currently focused on:
-- Graphics/Games programming with C++.
-- Game Development with Unity, making assets with Maya/Blender.
-- Applications with .NET, databases, JS stuff, React and Flutter on frontend.
-- Rust programming on free times.
+Continuously learning and improving in both software and game development. My current focus includes:
+- Advanced graphics and game programming with C++ and Rust.
+- Game development with Unity, including asset creation with Maya/Blender.
+- Full-stack application development using .NET, with frontend work in React and Flutter.
+- Exploring Rust in my free time, particularly for game engine and graphics programming.
 
-Feel free to refer to our portfolio from the link below, which was made from scratch.
-<li><a href="https://webbysoftinit.com/">Portfolio website</a></li>
+Feel free to check out my portfolio, which was developed from scratch:
+- [Portfolio website](https://webbysoftinit.com/)
 
 ## Projects:
 ### .NET Projects (C#)
