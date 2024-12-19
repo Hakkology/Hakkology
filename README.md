@@ -1,6 +1,6 @@
 # Hi 👋 I'm Hakan
 
-I'm a **full-stack developer** passionate about creating robust software and immersive games. Here's a quick overview of what I do:
+I'm a **game developer** passionate about creating robust software and immersive games. Here's a quick overview of what I do:
 
 - 💻 Expertise in **C#** and **C++**, with a focus on game and graphics programming.
 - 🎮 Specializing in **Unity game development** and exploring advanced graphics programming.
