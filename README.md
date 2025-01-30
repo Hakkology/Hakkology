@@ -1,10 +1,10 @@
 # Hi 👋 I'm Hakan
 
-I'm a **game developer** passionate about creating robust software and immersive games. Here's a quick overview of what I do:
+I'm a **game/software developer** passionate about creating robust software and immersive games. Here's a quick overview of what I do:
 
-- 💻 Expertise in **C#** and **C++**, with a focus on game and graphics programming.
-- 🎮 Specializing in **Unity game development** and exploring advanced graphics programming.
-- 🌱 Currently learning **Rust** for game engine and graphics development.
+- 💻 Game/Software Developer specializing in C#, C++, and .NET, with additional proficiency in Python and Rust.
+- 🎮 Specializing in Unity and Godot game engines, and passionate about proprietary engines built with Vulkan or OpenGL APIs.
+- 🌱 Curious about visual computing, image processing and manipulation techniques, utilizing various algorithms and frameworks for various solutions.
 - 🛠️ Currently working at a .NET development company, specializing in **NopCommerce plugin development** for e-commerce platforms.
 - 📧 Reach me at: yildizhakan88@gmail.com
 - 🌐 Portfolio: [My Website](https://webbysoftinit.com/)
