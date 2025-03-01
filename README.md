@@ -5,7 +5,7 @@ I'm a **game/software developer** passionate about creating robust software and 
 - 💻 Game/Software Developer specializing in C#, C++, and .NET, with additional proficiency in Python and Rust.
 - 🎮 Specializing in Unity and Godot game engines, and passionate about proprietary engines built with Vulkan or OpenGL APIs.
 - 🌱 Curious about visual computing, image processing and manipulation techniques, utilizing various algorithms and frameworks for various solutions.
-- 🛠️ Currently working at a .NET development company, specializing in **NopCommerce plugin development** for e-commerce platforms and **Backup solutions**.
+- 🛠️ Currently working at a .NET development company, specializing in **NopCommerce plugin development** for e-commerce platforms and **Database Backup solutions**.
 - 📧 Reach me at: yildizhakan88@gmail.com
 - 🌐 Portfolio: [My Website](https://webbysoftinit.com/)
 - 📄 [Download My CV](https://flowcv.com/resume/b96nb87j5g)
