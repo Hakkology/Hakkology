@@ -13,14 +13,17 @@ I'm a **game/software developer** passionate about creating robust software and 
 ---
 ## Key Projects
 
-### .NET Projects
+### .NET C# Projects
 [Webby Software Portfolio](https://github.com/Hakkology/WebbySoftware) • [E-Commerce Website](https://github.com/Hakkology/E-Commerce-Website) • [Map Logger](https://github.com/Hakkology/MapLogger) • [Real Estate Website (Early Development)](https://github.com/Hakkology/Real-Estate-Site-Concept) • [WPF Tetris Game](https://github.com/Hakkology/Tetris-Game)
 
 ### Game Projects (Unity)
-[R9! (Released)](https://hakkology.itch.io/r9) • [Tetris](https://github.com/Hakkology/Tetris) • [Asteroids](https://github.com/Hakkology/Asteroids) • [Space Invaders](https://github.com/Hakkology/SpaceInvaders) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Runner Game](https://github.com/Hakkology/Stack-the-Cubes) • [FPS Game (Ongoing)](https://github.com/Hakkology/FPSProject) • [2D RPG "Marvin" (Ongoing)](https://github.com/Hakkology/Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Under-the-Rift-s-Shadow) • [Procedural Dungeon Generation (Ongoing)](https://github.com/Hakkology/Procedural-Cave-Generation)
+[R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Runner Game](https://github.com/Hakkology/Stack-the-Cubes) • [FPS Game](https://github.com/Hakkology/FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Under-the-Rift-s-Shadow) • [Procedural Dungeon Generation](https://github.com/Hakkology/Procedural-Cave-Generation)
+
+### Game Projects (Unity - Teaching)
+[Tetris](https://github.com/Hakkology/Tetris) • [Asteroids](https://github.com/Hakkology/Asteroids) • [Space Invaders](https://github.com/Hakkology/SpaceInvaders) • [Snake](https://github.com/Hakkology/Snake) 
 
 ### Renderer & Framework Implementations
-[OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer (Ongoing)](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API (Ongoing)](https://github.com/Hakkology/Python-Blender-API)
+[OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
 
 ### Major Contributions
 [Milord - Unity Game on Steam](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine Video Exporter](https://www.loremachine.world) • [NopCommerce Plugin Development](https://nopcommerce.com)
