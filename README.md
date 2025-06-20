@@ -22,7 +22,7 @@ I'm a **game/software developer** passionate about creating robust software and 
 
 
 ### Game Projects (Unity - Teaching)
-[Tetris](https://github.com/Hakkology/Tetris) • [Asteroids](https://github.com/Hakkology/Asteroids) • [Space Invaders](https://github.com/Hakkology/SpaceInvaders) • [Snake](https://github.com/Hakkology/Snake) 
+[Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) 
 
 ### Renderer & Framework Implementations
 [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
