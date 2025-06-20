@@ -17,7 +17,9 @@ I'm a **game/software developer** passionate about creating robust software and 
 [Webby Software Portfolio](https://github.com/Hakkology/WebbySoftware) • [E-Commerce Website](https://github.com/Hakkology/E-Commerce-Website) • [Map Logger](https://github.com/Hakkology/MapLogger) • [Real Estate Website (Early Development)](https://github.com/Hakkology/Real-Estate-Site-Concept) • [WPF Tetris Game](https://github.com/Hakkology/Tetris-Game)
 
 ### Game Projects (Unity)
-[R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Runner Game](https://github.com/Hakkology/Stack-the-Cubes) • [FPS Game](https://github.com/Hakkology/FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Under-the-Rift-s-Shadow) • [Procedural Dungeon Generation](https://github.com/Hakkology/Procedural-Cave-Generation)
+[R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [3D Platformer](https://github.com/Hakkology/Unity-CookingGame) • [Runner Game](https://github.com/Hakkology/Stack-the-Cubes) • [FPS Game](https://github.com/Hakkology/FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Under-the-Rift-s-Shadow) • [Procedural Dungeon Generation](https://github.com/Hakkology/Procedural-Cave-Generation)
+
+
 
 ### Game Projects (Unity - Teaching)
 [Tetris](https://github.com/Hakkology/Tetris) • [Asteroids](https://github.com/Hakkology/Asteroids) • [Space Invaders](https://github.com/Hakkology/SpaceInvaders) • [Snake](https://github.com/Hakkology/Snake) 
