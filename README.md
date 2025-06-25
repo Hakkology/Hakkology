@@ -49,22 +49,28 @@ I'm a **game/software developer** passionate about creating robust software and 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![NopCommerce](https://img.shields.io/badge/-NopCommerce-0073D4?style=flat-square&logo=nopcommerce&logoColor=white)
 
-<p align="center">
-  <a href="https://github.com/hakkology/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=hakkology&show_icons=true&theme=tokyonight&width=750"
-      height="300"
-      alt="Hakkology's GitHub stats"
-    />
-  </a>
-  <a href="https://github.com/hakkology">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=hakkology&layout=pie&theme=tokyonight&width=250"
-      height="300"
-      alt="Top Langs"
-    />
-  </a>
-</p>
+<table align="center" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="74%" align="center">
+      <a href="https://github.com/hakkology/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=hakkology&show_icons=true&theme=tokyonight&width=750"
+          height="300"
+          alt="Hakkology's GitHub stats"
+        />
+      </a>
+    </td>
+    <td width="26%" align="center">
+      <a href="https://github.com/hakkology">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=hakkology&layout=pie&theme=tokyonight&width=250"
+          height="300"
+          alt="Top Langs"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
