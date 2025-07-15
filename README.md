@@ -19,10 +19,8 @@ I'm a **game/software developer** passionate about creating robust software and 
 ### Game Projects (Unity)
 [R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer](https://github.com/Hakkology/Unity-CookingGame) • [Runner Game](https://github.com/Hakkology/Unity-Stack-the-Cubes) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow) • [Procedural Dungeon Generation](https://github.com/Hakkology/Unity-Procedural-Generation)
 
-
-
 ### Game Projects (Unity - Teaching)
-[Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) 
+[Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) • [Pacman](https://github.com/Hakkology/Unity-Pacman) 
 
 ### Renderer & Framework Implementations
 [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
