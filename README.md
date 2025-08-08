@@ -26,7 +26,7 @@ I'm a **game/software developer** passionate about creating robust software and 
 [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
 
 ### Major Contributions
-[Milord - Unity Game on Steam](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine Video Exporter](https://www.loremachine.world) • [NopCommerce Plugin Development](https://nopcommerce.com)
+[Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr) 
 
 
 ---
