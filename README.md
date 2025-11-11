@@ -1,13 +1,14 @@
 # Hi 👋 I'm Hakan
 
-I'm a **game/software developer** passionate about creating robust software and immersive games. Here's a quick overview of what I do:
+I am a game and software developer with experience in C#, C++ and .NET, and ongoing work with Python and Rust. 
 
-- 💻 Game/Software Developer specializing in C#, C++, and .NET, with additional proficiency in Python and Rust.
-- 🎮 Experienced in Unity and Godot game engines, and passionate about proprietary engines with OpenGL or Vulkan. Love making fun games with various game engines in my free times.
-- 🛠️ Currently employed as a .NET fullstack developer, working on WPF/Avalonia client apps, NopCommerce and Blazor web applications for **NopCommerce plugin development** and **Database Backup solutions**.
-- 🌱 Curious about visual computing, image processing and manipulation techniques.
-- 📧 Reach me at: yildizhakan88@gmail.com
-- 🌐 Portfolio: [My Website](https://webbysoftinit.com)
+I have contributed to various projects using the Unity and Godot game engines, focusing on game programming, engine tooling and graphics-related systems through low-level technologies such as OpenGL and Vulkan when needed. Alongside multiple game development projects, I am currently employed as a software developer working on desktop applications, web systems, e-commerce integrations, CRM platforms, cloud-based backup solutions and application infrastructure. 
+
+I also teach game development as a Unity instructor on weekends, covering modern gameplay architecture, tools and production workflows. 
+
+I am actively looking for opportunities in game development and aiming to contribute to technically solid and well-structured game projects. More information about my work is available across my GitHub repositories and portfolio.
+
+- 🌐 Portfolio: [My Website](https://fatalixsoft.com.tr)
 - 📄 [Download My CV](https://flowcv.com/resume/b96nb87j5g)
 
 ---
@@ -29,7 +30,7 @@ I'm a **game/software developer** passionate about creating robust software and 
 [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
 
 ### Major Contributions
-[Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr) 
+[Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr) • [FatalixSoft - Web Blazor](https://fatalixsoft.com.tr/) 
 
 
 ---
