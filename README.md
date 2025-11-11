@@ -20,7 +20,7 @@ I'm a **game/software developer** passionate about creating robust software and 
 [R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer](https://github.com/Hakkology/Unity-CookingGame) • [Runner Game](https://github.com/Hakkology/Unity-Stack-the-Cubes) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow)
 
 ### Random/Customized Projects (Unity)
-• [Procedural Dungeon Generation](https://github.com/Hakkology/Unity-Procedural-Generation) • [Procedural Terrain Generation](https://github.com/Hakkology/Unity-Procedural-Terrain-Generation) • [AI Behaviour Tree](https://github.com/Hakkology/Unity-AIBehaviour-Node) • [Various cases of game AI programming](https://github.com/Hakkology/Unity-AI-Module)
+[Procedural Dungeon Generation](https://github.com/Hakkology/Unity-Procedural-Generation) • [Procedural Terrain Generation](https://github.com/Hakkology/Unity-Procedural-Terrain-Generation) • [AI Behaviour Tree](https://github.com/Hakkology/Unity-AIBehaviour-Node) • [AI programming](https://github.com/Hakkology/Unity-AI-Module)
 
 ### Game Projects (Unity - Teaching)
 [Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) • [Pacman](https://github.com/Hakkology/Unity-Pacman) • [2048](https://github.com/Hakkology/Unity-2048) 
