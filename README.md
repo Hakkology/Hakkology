@@ -9,7 +9,7 @@ I also teach game development as a Unity instructor on weekends, covering modern
 I am actively looking for opportunities in game development and aiming to contribute to technically solid and well-structured game projects. More information about my work is available across my GitHub repositories and portfolio.
 
 - 🌐 Portfolio: [My Website](https://fatalixsoft.com.tr)
-- 📄 [Download My CV](https://flowcv.com/resume/b96nb87j5g)
+- 📄 [Download My CV](https://flowcv.com/resume/khiu4dnlsiu7)
 
 ---
 ## Key Projects
