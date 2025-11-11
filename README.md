@@ -30,7 +30,7 @@ I am actively looking for opportunities in game development and aiming to contri
 [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
 
 ### Major Contributions
-[Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr) • [FatalixSoft - Web Blazor](https://fatalixsoft.com.tr/) 
+[Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr) • [FatalixSoft - Web Blazor](https://fatalixsoft.com.tr/) • [WebGL game platform - Web Blazor](https://cogtech.com.tr/) 
 
 
 ---
