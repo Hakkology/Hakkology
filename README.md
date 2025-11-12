@@ -15,7 +15,7 @@ I am actively looking for opportunities in game development and aiming to contri
 ## Key Projects
 
 ### .NET C# Projects
-[Webby Software Portfolio](https://github.com/Hakkology/Web-WebbySoftware) • [E-Commerce Website](https://github.com/Hakkology/Web-E-Commerce-Website) • [Map Logger](https://github.com/Hakkology/Web-MapLogger) • [Real Estate Website (Early Development)](https://github.com/Hakkology/CS-Real-Estate-Site-Concept) • [WPF Tetris Game](https://github.com/Hakkology/WPF-Tetris-Game)
+[Webby Software Portfolio](https://github.com/Hakkology/Web-WebbySoftware) • [E-Commerce Website](https://github.com/Hakkology/Web-E-Commerce-Website) • [Map Logger](https://github.com/Hakkology/Web-MapLogger) • [Real Estate Website (Early Development)](https://github.com/Hakkology/CS-Real-Estate-Site-Concept) • [WPF Tetris Game](https://github.com/Hakkology/WPF-Tetris-Game)  • [FatalixSoft - Web Blazor](https://fatalixsoft.com.tr/) • [WebGL game platform - Web Blazor](https://cogtech.com.tr/) 
 
 ### Game Projects (Unity)
 [R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer](https://github.com/Hakkology/Unity-CookingGame) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow)
@@ -30,7 +30,7 @@ I am actively looking for opportunities in game development and aiming to contri
 [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
 
 ### Major Contributions
-[Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr) • [FatalixSoft - Web Blazor](https://fatalixsoft.com.tr/) • [WebGL game platform - Web Blazor](https://cogtech.com.tr/) 
+[Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr)
 
 
 ---
