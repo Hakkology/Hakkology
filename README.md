@@ -21,9 +21,12 @@ I am actively looking for opportunities in game development and aiming to contri
 [Iyzico Payment Plugin](https://github.com/Hakkology/NopCommerce-Iyzico-Payment-Plugin) • [Paytr Payment Plugin](https://github.com/Hakkology/NopCommerce-Paytr-Payment-Plugin)
 
 ### Game Projects (Unity)
-[R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer](https://github.com/Hakkology/Unity-CookingGame) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Under the Rift's Shadow"](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow)
+[R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer](https://github.com/Hakkology/Unity-CookingGame) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Rift" First Project Archive](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow)
 
-### Random/Customized Projects (Unity)
+### Game Projects (Godot)
+[Space Outpost](https://github.com/RealTimeTravellers/Space-Outpost)
+
+### Random/Customized Projects
 [Procedural Dungeon Generation](https://github.com/Hakkology/Unity-Procedural-Generation) • [Procedural Terrain Generation](https://github.com/Hakkology/Unity-Procedural-Terrain-Generation) • [AI Behaviour Tree](https://github.com/Hakkology/Unity-AIBehaviour-Node) • [AI programming](https://github.com/Hakkology/Unity-AI-Module)
 
 ### Game Projects (Unity - Teaching)
