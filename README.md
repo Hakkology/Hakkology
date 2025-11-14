@@ -21,7 +21,7 @@ I am actively looking for opportunities in game development and aiming to contri
 [Iyzico Payment Plugin](https://github.com/Hakkology/NopCommerce-Iyzico-Payment-Plugin) • [Paytr Payment Plugin](https://github.com/Hakkology/NopCommerce-Paytr-Payment-Plugin)
 
 ### Game Projects (Unity)
-[R9!](https://hakkology.itch.io/r9) • [Space Shooter](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer](https://github.com/Hakkology/Unity-CookingGame) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Rift" First Project Archive](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow)
+[R9!](https://hakkology.itch.io/r9) • [Space Shooter based on Typing](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors Simulation](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer Cooking Physics Game](https://github.com/Hakkology/Unity-CookingGame) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG Game "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Rift" First Project Archive](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow)
 
 ### Game Projects (Godot)
 [Space Outpost](https://github.com/RealTimeTravellers/Space-Outpost)
