@@ -18,7 +18,7 @@ I am actively looking for opportunities in game development and aiming to contri
 [Webby Software Portfolio](https://github.com/Hakkology/Web-WebbySoftware) • [E-Commerce Website](https://github.com/Hakkology/Web-E-Commerce-Website) • [Map Logger](https://github.com/Hakkology/Web-MapLogger) • [Real Estate Website (Early Development)](https://github.com/Hakkology/CS-Real-Estate-Site-Concept) • [WPF Tetris Game](https://github.com/Hakkology/WPF-Tetris-Game)  • [FatalixSoft - Web Blazor](https://fatalixsoft.com.tr/) • [WebGL game platform - Web Blazor](https://cogtech.com.tr/) 
 
 ### NopCommerce Plugin Projects
-[Iyzico Payment Plugin](https://github.com/Hakkology/NopCommerce-Iyzico-Payment-Plugin) • [Paytr Payment Plugin](https://github.com/Hakkology/NopCommerce-Paytr-Payment-Plugin) • [Nopcommerce Payment Plugin](https://github.com/Hakkology/NopCommerce-ParamPos-Payment-Plugin)
+[Iyzico Payment Plugin](https://github.com/Hakkology/NopCommerce-Iyzico-Payment-Plugin) • [Paytr Payment Plugin](https://github.com/Hakkology/NopCommerce-Paytr-Payment-Plugin) • [Parampos Payment Plugin](https://github.com/Hakkology/NopCommerce-ParamPos-Payment-Plugin)
 
 ### Game Projects (Unity)
 [R9!](https://hakkology.itch.io/r9) • [Space Shooter based on Typing](https://github.com/Hakkology/FatalX-Type-Shooter) • [Rock Paper Scissors Simulation](https://github.com/Hakkology/Unity-Rock-Paper-Scissors) • [3D Platformer Cooking Physics Game](https://github.com/Hakkology/Unity-CookingGame) • [FPS Game](https://github.com/Hakkology/Unity-FPSProject) • [2D RPG Game "Marvin"](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [3D RPG "Rift" First Project Archive](https://github.com/Hakkology/Unity-Under-the-Rift-s-Shadow)
