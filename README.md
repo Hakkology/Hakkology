@@ -30,7 +30,7 @@ I am actively looking for opportunities in game development and aiming to contri
 [Procedural Dungeon Generation](https://github.com/Hakkology/Unity-Procedural-Generation) • [Procedural Terrain Generation](https://github.com/Hakkology/Unity-Procedural-Terrain-Generation) • [AI Behaviour Tree](https://github.com/Hakkology/Unity-AIBehaviour-Node) • [AI programming](https://github.com/Hakkology/Unity-AI-Module)
 
 ### Game Projects (Unity - Teaching)
-[Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) • [Pacman](https://github.com/Hakkology/Unity-Pacman) • [2048](https://github.com/Hakkology/Unity-2048) 
+[Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) • [Pacman](https://github.com/Hakkology/Unity-Pacman) • [2048](https://github.com/Hakkology/Unity-2048) • [Flappy Bird](https://github.com/Hakkology/Unity-Flappy-Bird) • [Frogger](https://github.com/Hakkology/Unity-Frogger) 
 
 ### Renderer & Framework Implementations
 [OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
