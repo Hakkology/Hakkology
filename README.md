@@ -33,7 +33,7 @@ I am actively looking for opportunities in game development and aiming to contri
 [Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) • [Pacman](https://github.com/Hakkology/Unity-Pacman) • [2048](https://github.com/Hakkology/Unity-2048) • [Flappy Bird](https://github.com/Hakkology/Unity-Flappy-Bird) • [Frogger](https://github.com/Hakkology/Unity-Frogger) 
 
 ### Renderer & Framework Implementations
-[OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
+[OpenGL Framework](https://github.com/Hakkology/OpenGL-Framework) • [OpenGL Rust Renderer](https://github.com/Hakkology/OpenGL-Renderer-Rust) • [SDL Framework Implementation](https://github.com/Hakkology/SDL-Framework-Implementation) • [Vulkan Renderer](https://github.com/Hakkology/Vulkan-API) • [Python-Blender-API](https://github.com/Hakkology/Python-Blender-API)
 
 ### Major Contributions
 [Milord - Steam Game Unity](https://store.steampowered.com/app/2455460/Milord/) • [LoreMachine - NextJS Web](https://www.loremachine.world) • [NopCommerce Plugin Development - .NET Web](https://nopcommerce.com) • [Neypa Backup - Web Blazor/Devexpress](https://login.neypa.com.tr) • [Neypa Db Mssql - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa File - Desktop WPF](https://login.neypa.com.tr/appdownload) • [Neypa Backup Mobile - Mobile Maui](https://login.neypa.com.tr)
