@@ -22,7 +22,7 @@ Beyond my professional role as a Software Developer—where I build everything f
 
 ### 🎮 Game Projects & Tech
 * **Major Contribution:** [Milord (Steam)](https://store.steampowered.com/app/2455460/Milord/) - Milord is a Kingdom Management RPG with city-building mechanics. Immerse yourself in a world where your decisions shape your fiefdom's destiny.
-* **Featured:** [R9! (Itch.io)](https://hakkology.itch.io/r9) • [Space Outpost (Godot)](https://github.com/RealTimeTravellers/Space-Outpost) • [ArenaZ](https://github.com/Hakkology/ArenaZ) • [Marvin (2D RPG)](https://github.com/Hakkology/Unity-2D-RPG-Marvin).
+* **Featured:** [R9! (Itch.io)](https://hakkology.itch.io/r9) • [Space Outpost (Godot)](https://github.com/RealTimeTravellers/Space-Outpost) • [ArenaZ](https://github.com/Hakkology/ArenaZ) • [Marvin (2D RPG)](https://github.com/Hakkology/Unity-2D-RPG-Marvin) • [Fatal-X](https://github.com/Hakkology/FatalX) • [Unity Cooking Game](https://github.com/Hakkology/Unity-CookingGame).
 * **Instructional (Unity):** [Tetris](https://github.com/Hakkology/Unity-Tetris) • [Asteroids](https://github.com/Hakkology/Unity-Asteroids) • [Space Invaders](https://github.com/Hakkology/Unity-SpaceInvaders) • [Snake](https://github.com/Hakkology/Unity-Snake) • [Pacman](https://github.com/Hakkology/Unity-Pacman) • [2048](https://github.com/Hakkology/Unity-2048) • [Flappy Bird](https://github.com/Hakkology/Unity-Flappy-Bird) • [Frogger](https://github.com/Hakkology/Unity-Frogger).
 * **Game Tools:** [Procedural Dungeon Generation](https://github.com/Hakkology/Unity-Procedural-Generation) • [Procedural Terrain Generation](https://github.com/Hakkology/Unity-Procedural-Terrain-Generation) • [NPC AI Behaviour Tree](https://github.com/Hakkology/Unity-AIBehaviour-Node) • [NPC AI programming](https://github.com/Hakkology/Unity-AI-Module)
 
@@ -32,7 +32,7 @@ Beyond my professional role as a Software Developer—where I build everything f
 * **[OpenGL & Rust Renderer](https://github.com/Hakkology/OpenGL-Renderer-Rust):** Custom graphics implementations.
 
 ### 🌐 .NET & Enterprise Solutions
-* **[Songify](https://www.songify.com.tr/):** Cross-platform music streaming (Avalonia, Blazor, Mudblazor).
+* **[Songify Ecosystem](https://www.songify.com.tr/):** Cross-platform music streaming (Avalonia, Blazor, Mudblazor).
 * **[Neypa Ecosystem](https://login.neypa.com.tr):** Cloud backup, desktop tools (WPF), and mobile infrastructure (Blazor, Devexpress, WPF)
 * **NopCommerce:** High-end payment or shipping gateway integrations (Iyzico, Paytr, Parampos is available, although outdated).
 
