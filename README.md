@@ -9,6 +9,7 @@ Beyond my professional role as a Software Developer—where I build everything f
 - **AI & Intelligent Systems:** Developing agentic applications and generative tools. I tend to improve currently available agentic workflows into academic research (**Magnolia**), procedural game asset generation (**LoomAI**) and currently tuning an SQL agent for future use (**SQLize**).
 - **Web & Desktop:** Specialized in building performant web interfaces with **Blazor (MudBlazor or Devexpress)** and sophisticated cross-platform desktop applications using **Avalonia**.
 - **Game Tech:** Deeply experienced in **Unity**, with active R&D in **Godot** and low-level graphics (Vulkan/OpenGL) to build proprietary engine tools.
+- Additional info can be found on my [Portfolio](https://fatalixsoft.com.tr).
 
 ---
 
