@@ -33,8 +33,9 @@ Beyond my professional role as a Software Developer—where I build everything f
 
 ### 🌐 .NET & Enterprise Solutions
 * **[Songify Ecosystem](https://www.songify.com.tr/):** Cross-platform music streaming (Avalonia, Blazor, Mudblazor).
-* **[Neypa Ecosystem](https://login.neypa.com.tr):** Cloud backup, desktop tools (WPF), and mobile infrastructure (Blazor, Devexpress, WPF)
-* **NopCommerce:** High-end payment or shipping gateway integrations (Iyzico, Paytr, Parampos is available, although outdated).
+* **[Neypa Ecosystem](https://login.neypa.com.tr):** Cloud backup, desktop tools (WPF), and mobile infrastructure (Blazor, Devexpress, WPF).
+* **[FatalixSoft](https://fatalixsoft.com.tr/):** Project Display, forum, blogging, webgl games (Blazor, Mudblazor, WebGL).
+* **[NopCommerce]** High-end payment or shipping gateway integrations (Iyzico, Paytr, Parampos is available, although outdated).
 
 ---
 
