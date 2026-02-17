@@ -36,7 +36,7 @@ Beyond my professional role as a Software Developer—where I build everything f
 * **[Songify Ecosystem](https://www.songify.com.tr/):** Cross-platform music streaming (Avalonia, Blazor, Mudblazor).
 * **[Neypa Ecosystem](https://login.neypa.com.tr):** Cloud backup, desktop tools (WPF), and mobile infrastructure (Blazor, Devexpress, WPF).
 * **[FatalixSoft](https://fatalixsoft.com.tr/):** Project Display, forum, blogging, webgl games (Blazor, Mudblazor, WebGL).
-* **[NopCommerce]** High-end payment or shipping gateway integrations (Iyzico, Paytr, Parampos is available, although outdated).
+* **[NopCommerce]** High-end payment or shipping gateway integrations (Iyzico, Paytr, Parampos is publicly available, although outdated, contact for updates).
 
 ---
 
@@ -51,18 +51,22 @@ Beyond my professional role as a Software Developer—where I build everything f
 ![Vulkan](https://img.shields.io/badge/-Vulkan-E61F44?style=flat-square&logo=vulkan&logoColor=white)
 
 ---
+## 🕹️ Dev Dashboard
 
-## 📊 GitHub Stats
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hakkology&show_icons=true&theme=tokyonight" alt="Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hakkology&layout=pie&theme=tokyonight" alt="Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hakkology&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="hakkology activity graph" />
+</p>
+
+### 🚀 Leveling Up (Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hakkology&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="hakkology stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hakkology&layout=compact&theme=tokyonight&hide_border=true&hide=makefile,tsql" width="45%" alt="hakkology languages" />
+</p>
+
+### ⚔️ Weekly Quest (Streak)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hakkology&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
