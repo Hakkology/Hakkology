@@ -59,8 +59,8 @@ Beyond my professional role as a Software Developer—where I build everything f
 
 ### 🚀 Leveling Up (Stats)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hakkology&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="hakkology stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hakkology&layout=compact&theme=tokyonight&hide_border=true&hide=makefile,tsql" width="45%" alt="hakkology languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hakkology&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Hakkology Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Hakkology&layout=compact&theme=tokyonight&hide_border=true&hide=makefile,tsql&count_private=true" width="45%" alt="Hakkology Languages" />
 </p>
 
 ### ⚔️ Weekly Quest (Streak)
