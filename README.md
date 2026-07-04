@@ -16,7 +16,7 @@ Beyond my professional role as a Software Developer—where I build everything f
 ## 🛠️ Key Projects & Tools
 
 ### 🤖 AI & Generative Systems
-* **[LoomAI](https://loomai.com.tr):** AI-powered game asset generation platform.
+* **[LoomAI](https://github.com/Hakkology/Loom):** AI-powered game asset generation platform.
 * **[Magnolia](https://mavrsoft.com.tr/):** Scholar AI Agent designed for academic research automation.
 * **[SQLize](https://github.com/Hakkology/Sqlize):** A modular SQL agent for natural language database interaction.
 * **[Fuzz](https://github.com/Hakkology/Fuzz):** Experimental AI playground for generative testing.
